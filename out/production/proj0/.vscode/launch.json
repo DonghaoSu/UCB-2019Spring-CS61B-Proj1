@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StdDrawDemo",
+            "request": "launch",
+            "mainClass": "StdDrawDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NBody",
+            "request": "launch",
+            "mainClass": "NBody"
+        }
+    ]
+}
